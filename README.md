@@ -4,9 +4,9 @@ A machine learning project that estimates a person's risk of diabetes from eight
 
 > **Disclaimer:** This is a student learning project. It is **not** a medical tool and must not be used to diagnose or treat any condition. Please see a doctor for real medical advice.
 
-**Author:** [Your Name]
-**Course / Institution:** [Your Course, Your College]
-**Date:** [Month Year]
+**Author:** [Manasvi Dhiman]
+**Course / Institution:** [CSE,ABES Engineering College]
+**Date:** [1st Oct 2026]
 
 link: https://ml-project-diabetes-prediction-2.streamlit.app/
 
