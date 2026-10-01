@@ -8,6 +8,8 @@ A machine learning project that estimates a person's risk of diabetes from eight
 **Course / Institution:** [Your Course, Your College]
 **Date:** [Month Year]
 
+link: https://ml-project-diabetes-prediction-2.streamlit.app/
+
 ---
 
 ## Table of Contents
